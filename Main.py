@@ -97,7 +97,7 @@ length_of_text = len(text)
 solution = Solution(length_of_text)
 
 # push/enqueue all the characters of string text to stack
-for index in range(length_of_text):
+for index in range(lengthof_text):
     # Write code here
 
 is_palindrome = True
