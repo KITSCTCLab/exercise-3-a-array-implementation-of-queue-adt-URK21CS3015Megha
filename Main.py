@@ -263,3 +263,4 @@ if is_palindrome:
 else:
 
     print("The word, " + text + ", is not a palindrome.")
+
